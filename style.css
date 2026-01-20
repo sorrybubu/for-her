@@ -80,3 +80,21 @@ button {
   margin-top: 20px;
   font-style: italic;
 }
+
+.letter p {
+  margin-bottom: 18px;
+}
+
+.hero p {
+  font-size: 18px;
+  opacity: 0.8;
+}
+
+.final {
+  background: #fff;
+  margin-top: 40px;
+}
+
+.signature {
+  font-size: 18px;
+}
